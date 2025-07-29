@@ -1,0 +1,12 @@
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/CMakeFiles/imgui.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/CMakeFiles/StTriangulator.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/CMakeFiles/INSTALL.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/CMakeFiles/ALL_BUILD.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/CMakeFiles/ZERO_CHECK.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/CMakeFiles/uninstall.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/CMakeFiles/INSTALL.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/CMakeFiles/ALL_BUILD.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/src/CMakeFiles/glfw.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/src/CMakeFiles/update_mappings.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/src/CMakeFiles/INSTALL.dir
+C:/dev/CPP/PROJECTS/STriangulatorMC/build/Release/lib/glfw/docs/CMakeFiles/INSTALL.dir

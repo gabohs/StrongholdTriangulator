@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\CPP\PROJECTS\STriangulatorMC\build\Release\CMakeFiles\c99c23c18ad1a57aa4916b42f47b3357\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F617C28D-08E5-3CA0-A627-C45650241C26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

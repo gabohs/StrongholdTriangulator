@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\CPP\PROJECTS\STriangulatorMC\build\Debug\CMakeFiles\62b4cc50c473c9b2043a229a1701c36a\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\CPP\PROJECTS\STriangulatorMC\lib\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\CPP\PROJECTS\STriangulatorMC\lib\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\dev\CPP\PROJECTS\STriangulatorMC\lib\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\dev\CPP\PROJECTS\STriangulatorMC\build\Debug\lib\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9234BC75-CBF8-3C4E-BABA-905CF1E8C84B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DCA55F0D-9A78-373E-8AAC-797CBFBA223A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

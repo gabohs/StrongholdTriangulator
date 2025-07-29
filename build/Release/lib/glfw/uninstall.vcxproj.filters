@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\CPP\PROJECTS\STriangulatorMC\build\Release\CMakeFiles\46c4f98a956bb964aeb74c428e184ec6\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\CPP\PROJECTS\STriangulatorMC\lib\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\CPP\PROJECTS\STriangulatorMC\build\Release\lib\glfw\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F617C28D-08E5-3CA0-A627-C45650241C26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
