@@ -43,7 +43,7 @@ void GUI::renderBody()
     float angleMinus90 = Solver::normalizeAngle(angle1 - 90.0f);
     float anglePlus90 = Solver::normalizeAngle(angle1 + 90.0f);    
 
-    if (ImGui::CollapsingHeader("[INFO]"))
+    if (ImGui::CollapsingHeader("[INFO]", ImGuiTreeNodeFlags_DefaultOpen))
     {   
         ImGui::Bullet();
         ImGui::Text("Go towards ");
