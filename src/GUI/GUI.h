@@ -8,7 +8,7 @@
 class GUI
 {
 private:
-    ImVec2 panelSize = {400, 300};
+    ImVec2 panelSize = {400, 280};
     ImVec2 lastWindowPos_;
     ImVec2 lastWindowSize_;
     bool shouldRender_ = true;

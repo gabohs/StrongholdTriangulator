@@ -24,6 +24,9 @@ void GUI::renderBody()
     ImGui::Text("Distance traveled (perpendicular to 1st eye): ");
     ImGui::InputFloat("##dist", &perpDistTraveled);
 
+    float distInSprintJumps = perpDistTraveled / 4.375; // fix ts magic number later, its the distance of 1 sprint jump
+    ImGui::TextColored(Colors::Purple, "That is %.1f sprint jumps", distInSprintJumps);
+
     ImGui::Dummy({0.f, 3.f});
 
     float distance = Solver::calculateDistance(angle1, angle2, perpDistTraveled); 
