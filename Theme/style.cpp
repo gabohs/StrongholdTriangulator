@@ -37,6 +37,10 @@ namespace setStyle
 
         style.Colors[ImGuiCol_Tab]                  = Colors::DarkBlue;
         style.Colors[ImGuiCol_TabActive]            = Colors::LightBlue;
+
+        style.Colors[ImGuiCol_Header]               = Colors::DarkGray;      
+        style.Colors[ImGuiCol_HeaderHovered]        = Colors::DarkBlue;      
+        style.Colors[ImGuiCol_HeaderActive]         = Colors::LightBlue;   
     }
 }
 

@@ -4,11 +4,12 @@
 #include "../../Theme/colors.h"
 
 #include "../core/Solver.h"
+#include "../core/Constants.h"
 
 class GUI
 {
 private:
-    ImVec2 panelSize = {400, 280};
+    ImVec2 panelSize = {415, 310};
     ImVec2 lastWindowPos_;
     ImVec2 lastWindowSize_;
     bool shouldRender_ = true;

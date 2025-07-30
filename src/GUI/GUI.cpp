@@ -47,5 +47,4 @@ void GUI::render()
     renderBody();
 
     ImGui::End();
-
 }

@@ -4,7 +4,11 @@ void GUI::renderCustomTitleBar()
 {
     ImGui::BeginGroup();
 
+    ImGui::SetWindowFontScale(1.1f);
+
     ImGui::TextColored(Colors::DarkBlue, "gabo's Stronghold Calculator!");
+
+    ImGui::SetWindowFontScale(1.0f);
 
     ImDrawList* draw_list = ImGui::GetWindowDrawList();
     float radius = 7.0f;

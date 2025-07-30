@@ -4,7 +4,7 @@ float Solver::calculateDistance(float angle1, float angle2, float perpDist)
 {
     float angleDif = std::abs(angle1 - angle2);
 
-    float hypotenuse = perpDist / std::sin( angleDif * (PI / 180) );
+    float hypotenuse = perpDist / std::sin( angleDif * (Constants::PI / 180) );
 
     return hypotenuse;
 }
